@@ -1,7 +1,6 @@
 
 import loja
 
-
 def main():
     
     catalogo = loja.criar_catalogo()
